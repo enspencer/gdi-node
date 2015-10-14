@@ -45,5 +45,6 @@ Please bring along a laptop and charger as well as have the following programs i
 
 #### Class 3 - Connecting your API to a database
   - Installing mongoDB
+  - Breaking your code into multiple files
 
 #### Class 4 - Using an external API
