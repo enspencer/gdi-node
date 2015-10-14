@@ -6,7 +6,7 @@ This is an Intro to Node.js course for GDI Boston. The course will be taught in 
 
 Interested in Node.js, but don't know where to start or how to find time to learn it properly? Want to create web applications using JavaScript on both the front and back end? Want to create your first API? Curious how it's even possible to run JavaScript outside of the browser?
 
-[Node](https://github.com/nodejs/node) is an open source project that powers applications and products like Netflix, Uber, LinkedIn, and the New York Times.
+[Node](https://github.com/nodejs/node) is an open source project that powers applications and products like Netflix, Uber, LinkedIn, and the New York Times. It is a JavaScript environment designed for asynchronous I/O (input/output)
 
 ### Dates:
 This class takes place over four consecutive Tuesday evenings, as follows:
@@ -39,9 +39,9 @@ Please bring along a laptop and charger as well as have the following programs i
   - Events & streams
     
 #### Class 2 - Creating an HTTP server with node
-  - Modules and dependencies
+  - Modules and dependencies using `require`
   - Using NPM to include external packages
-  - Using `require`
+  - How to write a module
 
 #### Class 3 - Connecting your API to a database
   - Installing mongoDB
@@ -51,4 +51,5 @@ Please bring along a laptop and charger as well as have the following programs i
   - Create a simple Twitter client to GET and POST tweets from the browser
 
 ### Resources:
-  - Deployment
+  - [Node style guide](https://github.com/felixge/node-style-guide)
+  - Deployment; there are many options but [Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction) is a simple way to get started
