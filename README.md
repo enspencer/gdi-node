@@ -22,7 +22,7 @@ There is also an optional installation night on Monday, November 9th from 6:30 t
 This will be a very hands on class, so an intermediate understanding of JavaScript is required. 
 
 Please bring along a laptop and charger as well as have the following programs installed prior to arriving:
- - A text editor. We recommend [Sublime Text 3](https://www.sublimetext.com/3) (free; available for Mac, PC, and Linux).
+ - A text editor. We recommend [Sublime Text 3](https://www.sublimetext.com/3) (free; available for Mac, PC, and Linux)
  - [node.js](nodejs.org)
  - Create an account on Github and install Git. For an intro to Git you can read [this](https://rogerdudler.github.io/git-guide/) or try [this interactive tutorial](https://try.github.io/levels/1/challenges/1)
 
@@ -39,7 +39,7 @@ Please bring along a laptop and charger as well as have the following programs i
   - Events & streams
     
 #### Class 2 - Creating an HTTP server with node
-  - Modules and dependencies using `require`
+  - Modules, dependencies, and the power of `require`
   - Using NPM to include external packages
   - How to write a module
 
@@ -49,6 +49,12 @@ Please bring along a laptop and charger as well as have the following programs i
 
 #### Class 4 - Using an external API
   - Create a simple Twitter client to GET and POST tweets from the browser
+
+### Questions for students:
+- What JavaScript experience do you have?
+- Have you played around with node before (it’s of if you haven’t!)
+- What are you looking to get out of the class?
+- Do you have something in mind that you want to build?
 
 ### Resources:
   - [Node style guide](https://github.com/felixge/node-style-guide)
