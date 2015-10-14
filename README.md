@@ -1,6 +1,6 @@
 # Server-Side Development with Node.js, MongoDB and Express.js
 
-This is an Intro to Node.js course for GDI Boston. The course will be taught in 4 two-hour sections with an optional installation night. Course materials drawn from [An Absolute Beginner's Guide to Node](http://blog.modulus.io/absolute-beginners-guide-to-nodejs), Max Ogden's [Art of Node](https://github.com/maxogden/art-of-node). Thanks to Cheri Allen's [gdi-ruby](https://github.com/cherimarie/gdi-ruby) curriculum for the template for this readme.
+This is an Intro to Node.js course for GDI Boston. The course will be taught in 4 two-hour sections with an optional installation night. Course materials drawn from [An Absolute Beginner's Guide to Node](http://blog.modulus.io/absolute-beginners-guide-to-nodejs), Max Ogden's [Art of Node](https://github.com/maxogden/art-of-node), and my brain. Thanks to Cheri Allen's [gdi-ruby](https://github.com/cherimarie/gdi-ruby) curriculum for the template for this readme.
 
 ## Course description
 
