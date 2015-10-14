@@ -29,21 +29,21 @@ Please bring along a laptop and charger as well as have the following programs i
 
 ### Topics covered:
 
- - Class 0 - Installfest
+#### Class 0 - Installfest
  
-    Get your developement environment set up on your machine. Install Sublime, node, and Git and meet some of your classmates.
+ Get your developement environment set up on your machine. Install Sublime, node, and Git and meet some of your classmates.
 
- - Class 1 - I/O with node
-    -Core modules
-    -Asycnchronous callbacks
-    -Events & streams
+#### Class 1 - I/O with node
+  - Core modules
+  - Asycnchronous callbacks
+  - Events & streams
     
- - Class 2 - Creating an HTTP server with node
-    -Modules and dependencies
-    -Using NPM to include external packages
-    -Using `require`
+#### Class 2 - Creating an HTTP server with node
+  - Modules and dependencies
+  - Using NPM to include external packages
+  - Using `require`
 
- - Class 3 - Connecting your API to a database
-    -Installing mongoDB
+#### Class 3 - Connecting your API to a database
+  - Installing mongoDB
 
- - Class 4 - Using an external API
+#### Class 4 - Using an external API
