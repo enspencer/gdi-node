@@ -48,3 +48,7 @@ Please bring along a laptop and charger as well as have the following programs i
   - Breaking your code into multiple files
 
 #### Class 4 - Using an external API
+  - Create a simple Twitter client to GET and POST tweets from the browser
+
+### Resources:
+  - Deployment
