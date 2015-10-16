@@ -35,7 +35,7 @@ Please bring along a laptop and charger as well as have the following programs i
 
 #### Class 1 - I/O with node
   - Core modules
-  - Asycnchronous callbacks
+  - Asynchronous callbacks
   - Events & streams
     
 #### Class 2 - Creating an HTTP server with node
