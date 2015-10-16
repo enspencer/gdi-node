@@ -6,7 +6,7 @@ This is an Intro to Node.js course for GDI Boston. The course will be taught in 
 
 Interested in Node.js, but don't know where to start or how to find time to learn it properly? Want to create web applications using JavaScript on both the front and back end? Want to create your first API? Curious how it's even possible to run JavaScript outside of the browser?
 
-[Node](https://github.com/nodejs/node) is an open source project that powers applications and products like Netflix, Uber, LinkedIn, and the New York Times. It is a JavaScript environment designed for asynchronous I/O (input/output)
+[Node](https://github.com/nodejs/node) is an open source project that powers applications and products like Netflix, Uber, LinkedIn, and the New York Times. It is a JavaScript environment designed for asynchronous I/O (input/output).
 
 ### Dates:
 This class takes place over four consecutive Tuesday evenings, as follows:
