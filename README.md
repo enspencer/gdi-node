@@ -19,7 +19,7 @@ There is also an optional installation night on Monday, November 9th from 6:30 t
 
 ### Prereqs & preparation:
 
-This will be a very hands on class, so an intermediate understanding of JavaScript is required. 
+This will be a very hands on class, so an intermediate understanding of JavaScript is required.
 
 Please bring along a laptop and charger as well as have the following programs installed prior to arriving:
  - A text editor. We recommend [Sublime Text 3](https://www.sublimetext.com/3) (free; available for Mac, PC, and Linux)
@@ -30,25 +30,30 @@ Please bring along a laptop and charger as well as have the following programs i
 ### Topics covered:
 
 #### Class 0 - Installfest
- 
+
  Get your developement environment set up on your machine. Install Sublime, node, and Git and meet some of your classmates.
 
-#### Class 1 - I/O with node
-  - Core modules
-  - Asynchronous callbacks
-  - Events & streams
-    
-#### Class 2 - Creating an HTTP server with node
-  - Modules, dependencies, and the power of `require`
+#### Class 1 - I/O & HTTP with node
+  - Node 101
+  - Explore node's core modules
+    - Asynchronous callbacks
+    - the power of `require`
+    - File input/output
+  - Simple HTTP servers
+  - BONUS: Events & streams
+
+#### Class 2 - Modular development & Express
+  - Modules, dependencies, breaking your code into multiple files
   - Using NPM to include external packages
   - How to write a module
+  - Creating a server using Express and add a route
 
 #### Class 3 - Connecting your API to a database
-  - Installing mongoDB
-  - Breaking your code into multiple files
+  - Installing mongoDB + adding data to a database
+  - Pull data from mongo and display it in the browser
 
 #### Class 4 - Using an external API
-  - Create a simple Twitter client to GET and POST tweets from the browser
+  - Create a Spotify client to retrieve artists and play songs
 
 ### Questions for students:
 - What JavaScript experience do you have?

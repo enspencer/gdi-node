@@ -5,7 +5,7 @@ Students should come to class with their dev environments set up with node, git,
 
 ## Objectives
   1. Node 101
-  2. Core modules
+  2. Explore node's core modules
   3. Asynchronous callbacks
   4. BONUS: Events & streams
 
