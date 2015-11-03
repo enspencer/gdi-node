@@ -43,9 +43,13 @@ After the slide presentation, group code along, and questions we'll move into ex
   - learn you node
 
 ## Instructor to-do before class
-  - Slide deck
+  - Slide deck - post them before class 1
   - Introduce TAs
   - Welcome email to students
   - Share class plan w/ TAs
   - Ask TAs if they want to give a presentation for any of the classes
+
+##
   - Put your head down and hold up 1-5 fingers, 5 being you feel great, 1 you're lost
+  - Socrative - anonymous quizzes w/ phone voting
+  - Start a class- 3 questions to test your understanding. If you see people struggled then reasses and take a step back.
