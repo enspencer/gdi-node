@@ -38,22 +38,24 @@ Please bring along a laptop and charger as well as have the following programs i
   - Explore node's core modules
     - Asynchronous callbacks
     - the power of `require`
-    - File input/output
+    - File input/output - read txt and JSON files
   - Simple HTTP servers
   - BONUS: Events & streams
 
 #### Class 2 - Modular development & Express
   - Modules, dependencies, breaking your code into multiple files
   - Using NPM to include external packages
-  - How to write a module
+  - How to write your own module
   - Creating a server using Express and add a route
 
-#### Class 3 - Connecting your API to a database
+#### Class 3 - Using an external API
+  - Create a Spotify client to retrieve artists and play songs
+  - Talk about authentication, security
+
+#### Class 4 - Connecting your API to a database
   - Installing mongoDB + adding data to a database
   - Pull data from mongo and display it in the browser
-
-#### Class 4 - Using an external API
-  - Create a Spotify client to retrieve artists and play songs
+  - note to self: have front end set up for them
 
 ### Questions for students:
 - What JavaScript experience do you have?
