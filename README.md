@@ -9,13 +9,13 @@ Interested in Node.js, but don't know where to start or how to find time to lear
 [Node](https://github.com/nodejs/node) is an open source project that powers applications and products like Netflix, Uber, LinkedIn, and the New York Times. It is a JavaScript environment designed for asynchronous I/O (input/output).
 
 ### Dates:
-This class takes place over four consecutive Tuesday evenings, as follows:
- - November 10th - 6:30pm to 8:30pm
- - November 17th - 6:30pm to 8:30pm
- - November 24th  - 6:30pm to 8:30pm
- - December 1st - 6:30pm to 8:30pm
+This class takes place over four consecutive Wednesday evenings, as follows:
+ - June 8th - 6:30pm to 8:30pm
+ - June 15th - 6:30pm to 8:30pm
+ - June 22nd  - 6:30pm to 8:30pm
+ - June 29th - 6:30pm to 8:30pm
 
-There is also an optional installation night on Monday, November 9th from 6:30 to 7:30pm.
+There is also an optional installation night on Tuesday, June 7th from 6:30 to 7:30pm.
 
 ### Prereqs & preparation:
 

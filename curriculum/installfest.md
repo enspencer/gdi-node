@@ -4,7 +4,7 @@ We'll have an installation night for the GDI Boston Node.js class. Please read t
 
 Please bring along a laptop and charger to installation night. We will be installing the following programs:
  - [Sublime Text 3](https://www.sublimetext.com/2)
- - Version 0.12.7 of [node.js](nodejs.org)
+ - Version 4.4.4 of [node.js](nodejs.org)
  - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
  ## Sublime Text
@@ -27,11 +27,11 @@ Please bring along a laptop and charger to installation night. We will be instal
 
  ### A Note about Node versions
 
- For this class we are going to use version 0.12.7 of node.js. As some of you may know, node is currently at version 5.0.0. It jumped from version 0.12.7 to version 4.0.0 in September 2015 due to a merge with io.js, a group that was working on improvements to the platform. We are going to stick with version 0.12.7 for this class for two reasons:
- 1. Many node packages have not been updated to work with the new version of node.
- 2. Most companies who use node have not upgraded versions yet, which means that most code you'll encounter is at  version 0.12.7 or below.
+ For this class we are going to use version 4.4.4 of node.js, the current supported version. If you have a different node version installed, you can use `nvm` or `n` to change versions.
 
- If you're interested in working with node 5.0.0
+ * [nvm for osx](https://github.com/creationix/nvm)
+ * [nvm for windows](https://github.com/coreybutler/nvm-windows)
+ * [n for osx](https://github.com/tj/n)
 
  ## Git
 
